@@ -19,7 +19,7 @@ const userSelectImg = document.createElement('img');
 const pcSelectImg = document.createElement('img');
 
 //colors
-const YELLOW = "#FCB253";
+const YELLOW = "#FAB20E";
 const RED = "#e64457";
 const GREEN = "#5ab7ac";
 

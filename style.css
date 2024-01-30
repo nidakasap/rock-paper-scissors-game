@@ -10,10 +10,10 @@
 }
 
 :root {
-  --yellow: #FCB253;
+  --yellow: #FAB20E;
   --red: #e64457;
   --green: #5ab7ac;
-  --blue: #1A2949;
+  --blue: #141f39;
   --grey: #cbcadad9;
   --ff-comfortaa: "Comfortaa", cursive;
   --ff-singleday: 'Single Day', cursive;
@@ -43,7 +43,7 @@ section.score-card {
   display: flex;
   flex-direction: column;
   align-items: center;
-  box-shadow: 2px 2px 1500px 0px;
+  box-shadow: 1px 1px 1200px 0px;
   background-color: var(--yellow);
   color: var(--grey);
   border-radius: 1rem;
